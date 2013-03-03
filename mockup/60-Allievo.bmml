@@ -1,0 +1,121 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="669" measuredH="400" mockupW="450" mockupH="400">
+  <controls>
+    <control controlID="23" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="219" y="0" w="-1" h="-1" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>A%20Web%20Page%0Ahttp%3A//</text>
+      </controlProperties>
+    </control>
+    <control controlID="35" controlTypeID="com.balsamiq.mockups::Label" x="234" y="137" w="-1" h="-1" measuredW="139" measuredH="22" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>false</bold>
+        <text>Primaria%20%22Lionel%20Messi%22</text>
+      </controlProperties>
+    </control>
+    <control controlID="49" controlTypeID="com.balsamiq.mockups::Label" x="363" y="77" w="142" h="28" measuredW="138" measuredH="33" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>24</size>
+        <text>Scuola%20web</text>
+      </controlProperties>
+    </control>
+    <control controlID="50" controlTypeID="com.balsamiq.mockups::Label" x="540" y="76" w="-1" h="-1" measuredW="104" measuredH="22" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Patrizia%20Cannav%F2</text>
+      </controlProperties>
+    </control>
+    <control controlID="51" controlTypeID="com.balsamiq.mockups::Link" x="525" y="92" w="-1" h="-1" measuredW="72" measuredH="22" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>31-Profilo%26bm%3B31-Profilo.bmml%26bm%3B31-Profilo.bmml%26bm%3B31-Profilo.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22306%2C92%2C378%2C114%22%20href%3D%2231-Profilo.bmml%22%20alt%3D%2231-Profilo%22%20id%3D%2251%22/%3E</map>
+        <text>il%20tuo%20profilo</text>
+      </controlProperties>
+    </control>
+    <control controlID="52" controlTypeID="com.balsamiq.mockups::Link" x="615" y="92" w="-1" h="-1" measuredW="29" measuredH="22" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>10-Home%26bm%3B10-Home.bmml%26bm%3B10-Home.bmml%26bm%3B10-Home.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22396%2C92%2C425%2C114%22%20href%3D%2210-Home.bmml%22%20alt%3D%2210-Home%22%20id%3D%2252%22/%3E</map>
+        <text>esci</text>
+      </controlProperties>
+    </control>
+    <control controlID="53" controlTypeID="com.balsamiq.mockups::Label" x="234" y="152" w="-1" h="-1" measuredW="113" measuredH="22" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <text>Allievo%3A%20Terzo%20Tre</text>
+      </controlProperties>
+    </control>
+    <control controlID="55" controlTypeID="com.balsamiq.mockups::BreadCrumbs" x="226" y="104" w="-1" h="-1" measuredW="218" measuredH="25" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs>30-PaginaPersonale%26bm%3B30-PaginaPersonale.bmml%26bm%3B30-PaginaPersonale.bmml%26bm%3B30-PaginaPersonale.bmml%2C40-Scuola%26bm%3B40-Scuola.bmml%26bm%3B40-Scuola.bmml%26bm%3B40-Scuola.bmml%2C50-classe%26bm%3B50-classe.bmml%26bm%3B50-classe.bmml%26bm%3B50-classe.bmml%2C</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%227%2C105%2C50%2C127%22%20href%3D%2230-PaginaPersonale.bmml%22%20alt%3D%2230-PaginaPersonale%22%20id%3D%2255_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%2262%2C105%2C110%2C127%22%20href%3D%2240-Scuola.bmml%22%20alt%3D%2240-Scuola%22%20id%3D%2255_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22122%2C105%2C170%2C127%22%20href%3D%2250-classe.bmml%22%20alt%3D%2250-classe%22%20id%3D%2255_2%22/%3E%0A</map>
+        <text>Home%2C%20Scuola%2C%20Classe%2C%20Allievo</text>
+      </controlProperties>
+    </control>
+    <control controlID="57" controlTypeID="com.balsamiq.mockups::Label" x="389" y="137" w="-1" h="-1" measuredW="183" measuredH="22" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>false</bold>
+        <text>-%20Classe%201a%20D%20-%20a.s.%202013-2014</text>
+      </controlProperties>
+    </control>
+    <control controlID="60" controlTypeID="com.balsamiq.mockups::Button" x="234" y="342" w="-1" h="-1" measuredW="118" measuredH="27" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>1%B0%20Quadrimestre</text>
+      </controlProperties>
+    </control>
+    <control controlID="61" controlTypeID="com.balsamiq.mockups::Button" x="552" y="342" w="-1" h="-1" measuredW="106" measuredH="27" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Pagella%20Finale</text>
+      </controlProperties>
+    </control>
+    <control controlID="64" controlTypeID="com.balsamiq.mockups::Label" x="234" y="167" w="-1" h="-1" measuredW="318" measuredH="22" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>false</bold>
+        <text>Via%20Antica%2011%2C%2010001%20Nichelino%20%28TO%29%20-%20Tel%20011-1234567</text>
+      </controlProperties>
+    </control>
+    <control controlID="65" controlTypeID="com.balsamiq.mockups::DataGrid" x="234" y="186" w="318" h="156" measuredW="294" measuredH="154" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hLines>false</hLines>
+        <rowHeight>26</rowHeight>
+        <text>Materia%20%5Ev%2C%20Media%20%5Ev%2C%20Ultima%20verifica%0AItaliano%2C%206.25%2C%2030/02/2013%0AMatematica%2C%205.86%2C%2008/05/2013%0AInglese%2C%207.9%2C%2022/04/2013%0AEducazione%20fisica%2C%20-%2C%20-%0AScienze%2C%206.0%2C%2011/05/2013%0A%7B55L%2C%200R%2C%2035%7D</text>
+        <verticalScrollbar>true</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="66" controlTypeID="com.balsamiq.mockups::Button" x="436" y="342" w="-1" h="-1" measuredW="118" measuredH="27" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>2%B0%20Quadrimestre</text>
+      </controlProperties>
+    </control>
+    <control controlID="67" controlTypeID="com.balsamiq.mockups::Button" x="348" y="342" w="-1" h="-1" measuredW="88" measuredH="27" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Pagella%201Q</text>
+      </controlProperties>
+    </control>
+    <control controlID="68" controlTypeID="com.balsamiq.mockups::Link" x="552" y="211" w="-1" h="-1" measuredW="107" measuredH="22" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>dettaglio%20verifiche</text>
+      </controlProperties>
+    </control>
+    <control controlID="73" controlTypeID="com.balsamiq.mockups::Link" x="552" y="236" w="-1" h="-1" measuredW="107" measuredH="22" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>70-AllievoMateria%26bm%3B70-AllievoMateria.bmml%26bm%3B70-AllievoMateria.bmml%26bm%3B70-AllievoMateria.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22333%2C236%2C440%2C258%22%20href%3D%2270-AllievoMateria.bmml%22%20alt%3D%2270-AllievoMateria%22%20id%3D%2273%22/%3E</map>
+        <text>dettaglio%20verifiche</text>
+      </controlProperties>
+    </control>
+    <control controlID="74" controlTypeID="com.balsamiq.mockups::Link" x="552" y="262" w="-1" h="-1" measuredW="107" measuredH="22" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>dettaglio%20verifiche</text>
+      </controlProperties>
+    </control>
+    <control controlID="75" controlTypeID="com.balsamiq.mockups::Link" x="552" y="287" w="-1" h="-1" measuredW="107" measuredH="22" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>dettaglio%20verifiche</text>
+      </controlProperties>
+    </control>
+    <control controlID="76" controlTypeID="com.balsamiq.mockups::Link" x="552" y="312" w="-1" h="-1" measuredW="107" measuredH="22" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>dettaglio%20verifiche</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

@@ -1,0 +1,57 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="450" measuredH="469" mockupW="450" mockupH="469">
+  <controls>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::Label" x="69" y="88" w="321" h="33" measuredW="317" measuredH="33" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>24</size>
+        <text>Web%20scuola%20-%20Registrazione</text>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::TextInput" x="140" y="187" w="180" h="-1" measuredW="137" measuredH="28" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Email@esempio.com</text>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::TextInput" x="140" y="216" w="180" h="-1" measuredW="169" measuredH="28" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Password%20%28min.%208%20caratteri%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::Button" x="146" y="298" w="-1" h="-1" measuredW="72" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>30-PaginaPersonale%26bm%3B30-PaginaPersonale.bmml%26bm%3B30-PaginaPersonale.bmml%26bm%3B30-PaginaPersonale.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22146%2C298%2C218%2C325%22%20href%3D%2230-PaginaPersonale.bmml%22%20alt%3D%2230-PaginaPersonale%22%20id%3D%2219%22/%3E</map>
+        <state>focused</state>
+        <text>Registra</text>
+      </controlProperties>
+    </control>
+    <control controlID="23" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="0" y="0" w="450" h="469" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>A%20Web%20Page%0Ahttp%3A//</text>
+      </controlProperties>
+    </control>
+    <control controlID="24" controlTypeID="com.balsamiq.mockups::TextInput" x="140" y="128" w="180" h="-1" measuredW="48" measuredH="28" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Nome</text>
+      </controlProperties>
+    </control>
+    <control controlID="25" controlTypeID="com.balsamiq.mockups::TextInput" x="140" y="157" w="180" h="-1" measuredW="70" measuredH="28" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Cognome</text>
+      </controlProperties>
+    </control>
+    <control controlID="26" controlTypeID="com.balsamiq.mockups::TextInput" x="140" y="245" w="180" h="-1" measuredW="123" measuredH="28" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Ripetere%20Password</text>
+      </controlProperties>
+    </control>
+    <control controlID="27" controlTypeID="com.balsamiq.mockups::Button" x="233" y="298" w="-1" h="-1" measuredW="67" measuredH="27" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>10-Home%26bm%3B10-Home.bmml%26bm%3B10-Home.bmml%26bm%3B10-Home.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22233%2C298%2C300%2C325%22%20href%3D%2210-Home.bmml%22%20alt%3D%2210-Home%22%20id%3D%2227%22/%3E</map>
+        <state>focused</state>
+        <text>Annulla</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

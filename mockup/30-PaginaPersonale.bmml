@@ -1,0 +1,60 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="659" measuredH="406" mockupW="450" mockupH="400">
+  <controls>
+    <control controlID="23" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="209" y="6" w="-1" h="-1" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>A%20Web%20Page%0Ahttp%3A//</text>
+      </controlProperties>
+    </control>
+    <control controlID="25" controlTypeID="com.balsamiq.mockups::List" x="224" y="151" w="249" h="110" measuredW="100" measuredH="126" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs>40-Scuola%26bm%3B40-Scuola.bmml%26bm%3B40-Scuola.bmml%26bm%3B40-Scuola.bmml%2C%2C%2C</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2215%2C147%2C264%2C168%22%20href%3D%2240-Scuola.bmml%22%20alt%3D%2240-Scuola%22%20id%3D%2225_0%22/%3E%0A</map>
+        <text>Primaria%20%22Lionel%20Messi%22%20-%20Nichelino%20%28TO%29%0ASecondaria%20%22Mordechai%20Richler%22%20-%20Torino%0ATerziaria%20%22Avanzata%22%20-%20Moncalieri%20%28TO%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="26" controlTypeID="com.balsamiq.mockups::Label" x="239" y="129" w="-1" h="-1" measuredW="89" measuredH="22" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <text>Le%20tue%20scuole</text>
+      </controlProperties>
+    </control>
+    <control controlID="35" controlTypeID="com.balsamiq.mockups::Label" x="363" y="77" w="142" h="28" measuredW="138" measuredH="33" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>24</size>
+        <text>Scuola%20web</text>
+      </controlProperties>
+    </control>
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::Label" x="540" y="76" w="-1" h="-1" measuredW="104" measuredH="22" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Patrizia%20Cannav%F2</text>
+      </controlProperties>
+    </control>
+    <control controlID="37" controlTypeID="com.balsamiq.mockups::Link" x="525" y="92" w="-1" h="-1" measuredW="72" measuredH="22" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>31-Profilo%26bm%3B31-Profilo.bmml%26bm%3B31-Profilo.bmml%26bm%3B31-Profilo.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22316%2C86%2C388%2C108%22%20href%3D%2231-Profilo.bmml%22%20alt%3D%2231-Profilo%22%20id%3D%2237%22/%3E</map>
+        <text>il%20tuo%20profilo</text>
+      </controlProperties>
+    </control>
+    <control controlID="38" controlTypeID="com.balsamiq.mockups::Link" x="615" y="92" w="-1" h="-1" measuredW="29" measuredH="22" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>10-Home%26bm%3B10-Home.bmml%26bm%3B10-Home.bmml%26bm%3B10-Home.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22406%2C86%2C435%2C108%22%20href%3D%2210-Home.bmml%22%20alt%3D%2210-Home%22%20id%3D%2238%22/%3E</map>
+        <text>esci</text>
+      </controlProperties>
+    </control>
+    <control controlID="39" controlTypeID="com.balsamiq.mockups::Button" x="291" y="268" w="-1" h="-1" measuredW="115" measuredH="27" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Aggiungi%20scuola</text>
+      </controlProperties>
+    </control>
+    <control controlID="40" controlTypeID="com.balsamiq.mockups::BreadCrumbs" x="225" y="107" w="-1" h="-1" measuredW="70" measuredH="25" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs>10-Home%26bm%3B10-Home.bmml%26bm%3B10-Home.bmml%26bm%3B10-Home.bmml</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2216%2C102%2C59%2C124%22%20href%3D%2210-Home.bmml%22%20alt%3D%2210-Home%22%20id%3D%2240_0%22/%3E%0A</map>
+        <text>Home</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
